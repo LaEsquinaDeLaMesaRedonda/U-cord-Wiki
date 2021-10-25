@@ -29,6 +29,6 @@ En la vida de los estudiantes muy seguramente se han generado dudas acerca de lo
 [![Deployed to Heroku](https://www.herokucdn.com/deploy/button.png)](https://ucord.herokuapp.com/login)
    
    
-     <h2> Para más información</h2>
+<h2> Para más información</h2>
 
 Para conocer más sobre este proyecto, ingrese a [wiki U-Cord](https://github.com/LaEsquinaDeLaMesaRedonda/U-cord-Wiki/wiki)
